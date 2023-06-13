@@ -1,7 +1,8 @@
 ### React State
 
 - [ ] Quick Review: Components, JSX, Props
-- [ ] Review of Functions & Closures
+- [ ] JavaScript Functions Review
+- [ ] Closures
 - [ ] React Functional Components
 - [ ] Component Life Cycle & "Render": what is that?
 - [ ] 'State' in React
