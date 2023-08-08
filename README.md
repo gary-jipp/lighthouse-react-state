@@ -1,9 +1,9 @@
 ### React State
 
 - [ ] Quick Review: Components, JSX, Props
+- [ ] React Functional Components
 - [ ] JavaScript Functions Review
 - [ ] Closures
-- [ ] React Functional Components
 - [ ] Component Life Cycle & "Render": what is that?
 - [ ] 'State' in React
 - [ ] The purpose of useState()
