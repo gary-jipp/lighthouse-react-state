@@ -1,13 +1,14 @@
 ### React State
 
 - [ ] Quick Review: Components, JSX, Props
-- [ ] Review of Functions & Closures
 - [ ] React Functional Components
+- [ ] JavaScript Functions * Closures Review
 - [ ] Component Life Cycle & "Render": what is that?
-- [ ] What is 'State' in React
-- [ ] The real purpose of useState()
+- [ ] 'State' in React
+- [ ] The purpose of useState()
 - [ ] Why did they call it 'React'?
 - [ ] Dealing with 'Stale' State
+- [ ] Sharing State between Components: "lifting up"
 
 ### Components
 
