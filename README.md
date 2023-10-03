@@ -10,3 +10,4 @@
 - [ ] Why did they call it 'React'?
 - [ ] Dealing with 'Stale' State
 - [ ] Sharing State between Components: "lifting up"
+- [ ] interface vs implementation functions
