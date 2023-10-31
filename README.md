@@ -8,5 +8,5 @@
 - [ ] State & useState()
 - [ ] Why did they call it 'React'?
 - [ ] Dealing with 'Stale' State
-- [ ] Sharing State -  Functions as props
+- [ ] Sharing State - Functions as props
 - [ ] interface vs implementation functions
